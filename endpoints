@@ -1,7 +1,0 @@
-endpoints you can touch ..
-
-all points within x radius
-https://sdgmts-proxy-transit-api-zp6id.ondigitalocean.app/api/nearby-stops/32.71145964625049/-117.15876102447511?radius=1000
-
-all points in a map's route
-https://sdgmts-proxy-transit-api-zp6id.ondigitalocean.app/api/schedules/3
